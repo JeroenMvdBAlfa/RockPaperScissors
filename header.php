@@ -1,9 +1,10 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Rock Paper Scissors</title>
-    <link href="stylesheet.css" rel="stylesheet" type="text/css" />
-    <link rel="icon" href="img/Logo.png" />
+    <title>Steen Papier Schaar</title>
+    <link rel="icon" href="img/Logo.png"/>
+    <link href="css/stylesheet.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
-    <h1>Rock Paper Scissors</h1>
+<h1>Steen Papier Schaar</h1>
